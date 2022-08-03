@@ -1,0 +1,143 @@
+.container {
+
+    align-items: center;
+}
+
+.separa {
+    background-color: rgb(191, 201, 150);
+    margin: 0px;
+    height: 100%;
+
+}
+
+.topo {
+    display: flex;
+    gap: 100px;
+    padding: 5px;
+    background-color: rgb(235, 210, 202)
+    
+}
+
+.home {
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: black;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(235, 210, 202)
+}
+
+
+.Quem {
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: black;
+    width: 350px;
+    height: 100px;
+    background-color: rgb(235, 210, 202)
+}
+
+
+.Clientes {
+
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: black;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(235, 210, 202)
+}
+
+
+
+.imagens {
+    display: flex;
+    gap: 120px;
+    padding: 20px;
+    margin: 100px;
+}
+
+.figuras01 {
+    width: 100px;
+    height: 200px;
+    position: static;
+    cursor: pointer;
+    transition-duration: 0, 45s;
+    width: 500px;
+    height: 200px;
+
+}
+
+.FIGURA02 {
+    width: 500px;
+    height: 200px;
+    position: static;
+    cursor: pointer;
+    transition-duration: 0, 45s;
+
+}
+
+.FIGURA03 {
+    width: 500px;
+    height: 200px;
+    position: static;
+    cursor: pointer;
+    transition-duration: 0, 45s;
+
+
+}
+
+.texto {
+    width: 10px;
+
+}
+
+.imagens {
+    display: flex;
+    gap: 120px;
+    padding: 20px;
+
+}
+
+.section {
+    width: 500px;
+    height: 200px;
+    gap: 120px;
+
+
+
+}
+
+.rodapé {
+    display: flex;
+    gap: 170px;
+    padding: 50px;
+    flex-shrink: 0px;
+    left: 0px;
+    bottom: 0px;
+    background-color: coral;
+    color: bisque;
+    width: 3200px;
+    position: absolute;
+    height: 50%;
+    left: 0px;
+    top: 1000px;
+    margin: 10px;
+
+}
+
+.totalsocial{
+    background-color: rgb(235, 210, 202);
+    width: 100%;
+}
+.totalsocial1{
+    background-color: aliceblue;
+    width: 100%;
+}
+.totalsocial2{
+    background-color:bisque
+    width: 100%;
+}
